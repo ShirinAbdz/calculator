@@ -32,8 +32,8 @@
 }
 
 body {
-  background-color: rgb(20, 20, 20);
-  background: #141414;
+  background: linear-gradient(90deg, #29091fe1, #A160FB, #1a0614e1);
+  height: 100vh;
 }
 
 .container {
@@ -47,7 +47,7 @@ body {
   width: 320px;
   background-color: rgb(25, 25, 25);
   padding-bottom: 25px;
-  box-shadow: 0px 0px 25px #080808, 0px 0px 25px #202020;
+  box-shadow: 0px 0px 5px #080808, 0px 0px 25px #202020;
 }
 
 input {
